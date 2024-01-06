@@ -17,9 +17,7 @@ This project is a web scraping and text classification tool that analyzes the co
    ```bash
    https://github.com/avirooppal/Web-Scraping-Flask.git
 
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
+2. Create a folder named templates and put form.html and index.html under it
 
 3. Run the Flask application:
    ```bash
